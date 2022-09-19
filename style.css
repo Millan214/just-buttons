@@ -54,3 +54,7 @@ h1 {
 .btn-1:active {
     transform: translateY(4px);
 }
+
+.agua {
+    background-color: blue;
+}
